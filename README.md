@@ -1,5 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
+### Wokwi
+https://wokwi.com/projects/347497504164545108
+
 ### Description
 
 This circuit will output a string of characters ('tiny tapeout') to the 7-segment display.
